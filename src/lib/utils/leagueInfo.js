@@ -8,7 +8,6 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Sunday Funday was founded prior to the 2021 season. The league was created to prove our dominance over one another and crush and hopes our friends have towards succcess.</p>
-  <p></p>
 `;
 
 /*   STEP 3   */
