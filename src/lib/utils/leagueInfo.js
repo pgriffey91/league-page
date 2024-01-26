@@ -21,7 +21,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "roster": 1, "86313750365618176"
+      "roster": 1, "76455547339423744"
       "name": "Pat",
       "location": "Orland Park", // (optional)
       "bio": "Commish",
